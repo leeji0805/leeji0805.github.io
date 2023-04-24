@@ -17,7 +17,7 @@ title: leeji0805
 author: "<leeji0805>"
 email: "<bomnaeum104@naver.com>"
 description: A simple Jekyll theme based on potatoes and hackers
-baseurl: "/jekyll-theme-potato-hacker" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://github.io"
 
 # ------------------------------------------------------------------------------
